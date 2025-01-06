@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdevUV"
+  site-url: "https://tguilment.github.io/nbdevUV"
+  description: "Test using nbdev with UV"
+  repo-branch: main
+  repo-url: "https://github.com/tguilment/nbdevUV"

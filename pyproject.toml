@@ -1,0 +1,21 @@
+[project]
+name = "nbdevuv"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "bagpy>=0.5",
+    "fastcore>=1.7.28",
+    "ipython>=8.31.0",
+    "ipywidgets>=8.1.5",
+    "jupyterlab-myst>=2.4.2",
+    "matplotlib>=3.10.0",
+    "nbdev>=2.3.34",
+    "numpy>=2.2.1",
+    "pandas>=2.2.3",
+    "pillow>=11.1.0",
+    "pytest>=8.3.4",
+    "scikit-image>=0.25.0",
+    "scipy>=1.15.0",
+]

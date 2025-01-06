@@ -5,4 +5,5 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://tguilment.github.io',
                 'git_url': 'https://github.com/tguilment/nbdevUV',
                 'lib_path': 'nbdevUV'},
-  'syms': {'nbdevUV.core': {'nbdevUV.core.foo': ('core.html#foo', 'nbdevUV/core.py')}}}
+  'syms': { 'nbdevUV.core': { 'nbdevUV.core.foo': ('core.html#foo', 'nbdevUV/core.py'),
+                              'nbdevUV.core.sum': ('core.html#sum', 'nbdevUV/core.py')}}}
